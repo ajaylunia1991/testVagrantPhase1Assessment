@@ -1,0 +1,22 @@
+{
+  "name": "TestVagrant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^6.3.5"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^6.3.5",
+    "@wdio/mocha-framework": "^6.3.0",
+    "@wdio/selenium-standalone-service": "^6.1.14",
+    "@wdio/spec-reporter": "^6.3.0",
+    "@wdio/sync": "^6.3.3"
+  }
+}
